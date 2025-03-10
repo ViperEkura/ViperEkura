@@ -2,10 +2,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ViperEkura&show_icons=true&theme=tokyonight&count_private=true" alt="苏向夜's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ViperEkura&show_icons=true&theme=tokyonight&count_private=true" alt="#" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViperEkura&langs_count=4&theme=tokyonight" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViperEkura&langs_count=4&theme=tokyonight" alt="#" />
     </td>
   </tr>
   <tr>
