@@ -14,10 +14,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/ViperEkura">
+  <a href="https://github-readme-stats.vercel.app/api?username=ViperEkura&show_icons=true&theme=vue">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=ViperEkura&show_icons=true&theme=vue" />
   </a>
-  <a href="https://github.com/ViperEkura">
+  <a href="ttps://github-readme-stats.vercel.app/api/top-langs/?username=ViperEkura&layout=compact&theme=vue&cache_seconds=60">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViperEkura&layout=compact&theme=vue&cache_seconds=60" />
   </a>
 </p>
