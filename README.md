@@ -1,11 +1,11 @@
 <h3 align="center">🛠 技术栈 | Tech Stack</h3>
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 16px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50"/>
-</p>
+</div>
 
 
 <h1 align="center">
@@ -13,11 +13,11 @@
 </h1>
 
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center">
   <a href="https://github-readme-stats.vercel.app/api?username=ViperEkura&show_icons=true&theme=vue">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=ViperEkura&show_icons=true&theme=vue" />
   </a>
   <a href="ttps://github-readme-stats.vercel.app/api/top-langs/?username=ViperEkura&layout=compact&theme=vue&cache_seconds=60">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViperEkura&layout=compact&theme=vue&cache_seconds=60" />
   </a>
-</p>
+</div>
