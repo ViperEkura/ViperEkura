@@ -14,9 +14,9 @@
 
 <div align="center" style="display: flex; justify-content: center">
   <a href="https://github-readme-stats.vercel.app/api?username=ViperEkura&show_icons=true&theme=vue">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ViperEkura&show_icons=true&theme=vue&cache_seconds=10" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ViperEkura&show_icons=true&theme=vue&cache_seconds=60" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ViperEkura&layout=compact&theme=vue">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViperEkura&layout=compact&theme=vuecache_seconds=10" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViperEkura&layout=compact&theme=vuecache_seconds=60" />
   </a>
 </div>
