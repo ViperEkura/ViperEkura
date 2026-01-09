@@ -17,7 +17,7 @@
   <a href="https://github-readme-stats-9rka.vercel.app/api/?username=ViperEkura&cache_seconds=60">
     <img height="165" src="https://github-readme-stats-9rka.vercel.app/api/?username=ViperEkura&cache_seconds=60" />
   </a>
-  <a href="https://github-readme-stats-9rka.vercel.app/api/top-langs/?username=ViperEkura&layout=compact&theme=vue&cache_seconds=60">
-    <img height="165" src="https://github-readme-stats-9rka.vercel.app/api/top-langs/?username=ViperEkura&count_private=false&layout=compact&theme=vue&cache_seconds=60" />
+  <a href="https://github-readme-stats-9rka.vercel.app/api/top-langs/?username=ViperEkura&layout=compact&cache_seconds=60">
+    <img height="165" src="https://github-readme-stats-9rka.vercel.app/api/top-langs/?username=ViperEkura&layout=compact&cache_seconds=60" />
   </a>
 </div>
