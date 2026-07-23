@@ -17,8 +17,8 @@
 </p>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViperEkura&show_icons=true" />
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViperEkura&layout=compact" />
+  <img height="180" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViperEkura&show_icons=true" />
+  <img height="180" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViperEkura&layout=compact" />
 </div>
 
 ---
