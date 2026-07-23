@@ -2,8 +2,6 @@
 
 <h1>ViperEkura</h1>
 
-<h3>Deep Learning and Operator</h3>
-
 <h3>
   技术栈 | Tech Stack
 </h3>
