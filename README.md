@@ -1,22 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=ViperEkura&fontSize=70&fontAlignY=35&desc=Deep%20Learning%20and%20Operator&descSize=20&descAlignY=60)
+<h1>ViperEkura</h1>
 
-<h3 align="center">
+<h3>Deep Learning and Operator</h3>
+
+<h3>
   技术栈 | Tech Stack
 </h3>
 
 </div>
-
-<div align="center" style="display: flex; justify-content: center">
-  <a href="https://github-readme-stats-9rka.vercel.app/api/?username=ViperEkura&cache_seconds=60">
-    <img height="165" src="https://github-readme-stats-9rka.vercel.app/api/?username=ViperEkura&cache_seconds=60" />
-  </a>
-  <a href="https://github-readme-stats-9rka.vercel.app/api/top-langs/?username=ViperEkura&layout=compact&cache_seconds=60">
-    <img height="165" src="https://github-readme-stats-9rka.vercel.app/api/top-langs/?username=ViperEkura&layout=compact&cache_seconds=60" />
-  </a>
-</div>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -26,8 +18,13 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
+<div align="center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViperEkura&show_icons=true" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViperEkura&layout=compact" />
+</div>
+
 ---
 
 <p align="center">
-  <i>🚀 Deep Learning · Operator Optimization · Performance Acceleration</i>
+  <i>🧠 Deep Learning · Operator Optimization · Performance Acceleration</i>
 </p>
