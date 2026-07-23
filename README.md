@@ -16,18 +16,10 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViperEkura&show_icons=true" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViperEkura&layout=compact" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViperEkura&show_icons=true" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViperEkura&layout=compact" />
+</div>
 
 ---
 
